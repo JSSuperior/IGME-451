@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Intrinsi.138dd99a\\x64\\Debug\\Intrinsic Practice.obj",
+            "outputs": [
+                "Intrinsi.138dd99a\\x64\\Debug\\Intrinsic Practice.cpp.obj.dt.module.json",
+                "Intrinsi.138dd99a\\x64\\Debug\\Intrinsic Practice.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
