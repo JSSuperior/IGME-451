@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\theor\\Documents\\GitHub\\IGME-451\\Intrinsic Practice\\Intrinsic Practice\\",
+  "WorkspaceRootPath": "D:\\Profiles\\twr7348\\Documents\\GitHub\\IGME-451\\Intrinsic Practice\\Intrinsic Practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{138DD99A-1EEE-4141-9E22-3C314A396A95}|Intrinsic Practice.vcxproj|C:\\Users\\theor\\Documents\\GitHub\\IGME-451\\Intrinsic Practice\\Intrinsic Practice\\Intrinsic Practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{138DD99A-1EEE-4141-9E22-3C314A396A95}|Intrinsic Practice.vcxproj|D:\\Profiles\\twr7348\\Documents\\GitHub\\IGME-451\\Intrinsic Practice\\Intrinsic Practice\\Intrinsic Practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{138DD99A-1EEE-4141-9E22-3C314A396A95}|Intrinsic Practice.vcxproj|solutionrelative:Intrinsic Practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -20,15 +20,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Intrinsic Practice.cpp",
-              "DocumentMoniker": "C:\\Users\\theor\\Documents\\GitHub\\IGME-451\\Intrinsic Practice\\Intrinsic Practice\\Intrinsic Practice.cpp",
+              "DocumentMoniker": "D:\\Profiles\\twr7348\\Documents\\GitHub\\IGME-451\\Intrinsic Practice\\Intrinsic Practice\\Intrinsic Practice.cpp",
               "RelativeDocumentMoniker": "Intrinsic Practice.cpp",
-              "ToolTip": "C:\\Users\\theor\\Documents\\GitHub\\IGME-451\\Intrinsic Practice\\Intrinsic Practice\\Intrinsic Practice.cpp",
+              "ToolTip": "D:\\Profiles\\twr7348\\Documents\\GitHub\\IGME-451\\Intrinsic Practice\\Intrinsic Practice\\Intrinsic Practice.cpp",
               "RelativeToolTip": "Intrinsic Practice.cpp",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -61,26 +61,19 @@
               "DocumentIndex": 2,
               "Title": "Math.h",
               "DocumentMoniker": "C:\\Users\\theor\\Documents\\GitHub\\IGME-451\\Intrinsic Practice\\Math\\Math\\Math\\Math.h",
-              "RelativeDocumentMoniker": "..\\Math\\Math\\Math\\Math.h",
               "ToolTip": "C:\\Users\\theor\\Documents\\GitHub\\IGME-451\\Intrinsic Practice\\Math\\Math\\Math\\Math.h",
-              "RelativeToolTip": "..\\Math\\Math\\Math\\Math.h",
               "ViewState": "AgIAAJkBAAAAAAAAAAAAAKUBAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-10-23T22:18:26.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-23T22:18:26.104Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MathX.h",
               "DocumentMoniker": "C:\\Users\\theor\\Documents\\GitHub\\IGME-451\\Intrinsic Practice\\Math\\Math\\Math\\MathX.h",
-              "RelativeDocumentMoniker": "..\\Math\\Math\\Math\\MathX.h",
               "ToolTip": "C:\\Users\\theor\\Documents\\GitHub\\IGME-451\\Intrinsic Practice\\Math\\Math\\Math\\MathX.h",
-              "RelativeToolTip": "..\\Math\\Math\\Math\\MathX.h",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-10-23T22:16:31.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-23T22:16:31.824Z"
             }
           ]
         }
